@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pi-top devices hub --name-only | grep -q -v "pi-top \[3\]\|pi-topCEED"
+pi-top devices hub --name-only | grep -q -v "pi-top \[3\]\|pi-topCEED\|Original pi-top"
