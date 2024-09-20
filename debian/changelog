@@ -1,3 +1,9 @@
+pi-top-4-miniscreen (7.9.0-4) bullseye; urgency=medium
+
+  * Run tests in a docker container (#342)
+
+ -- pi-top <deb-maintainers@pi-top.com>  Fri, 20 Sep 2024 13:16:52 +0000
+
 pi-top-4-miniscreen (7.9.0-3) bullseye; urgency=medium
 
   * Don't fail if firmware updater isn't installed (#338)
